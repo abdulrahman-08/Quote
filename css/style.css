@@ -1,0 +1,26 @@
+h1 { 
+    margin-top: 35px;
+    font-size: 80px;
+    font-weight: 800;
+    font-family: Impact;
+    color: #0dcaf0;
+}
+
+button {
+    width: 200px;
+    height: 80px;
+    background-color: rgb(46, 46, 165);
+    color: white;
+    transition: all 1s;
+}
+
+p{
+    margin-top: 50px;
+    font-size: 35px;
+    color: white;
+}
+
+button:hover{
+    background-color: #0dcaf0;
+    color: black;
+}
